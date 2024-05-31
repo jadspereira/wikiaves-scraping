@@ -24,7 +24,7 @@ Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da p
 
 1. **Clone este repositório:**
     ```sh
-    git clone https://github.com/jadspereira/wikiaves-scraper.git
+    git clone https://github.com/jadspereira/wikiaves-scraping.git
     cd wikiaves-scraper
     ```
 

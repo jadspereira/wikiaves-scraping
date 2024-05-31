@@ -1,4 +1,4 @@
-#  Web Scraper - WikiAves 🪶
+#  Web Scraping - WikiAves 🪶
 
 # Introdução
 

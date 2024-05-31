@@ -29,7 +29,7 @@ def scrape_data(url, num_items):
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         species_blocks = soup.find_all('div', {'class': 'wa-grid-item wa-record-mobile'})
 
-    #
+    
         for block in species_blocks:
             block_id = block.find('div', {'class': 'm-portlet fadeInUp animated wa-record m-portlet--rounded wa-record-mobile wa-foto'})
             if block_id is None:

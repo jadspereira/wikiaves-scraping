@@ -8,7 +8,7 @@ Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da p
 ## Funcionalidades
 
 - Extrai o nome da espécie, município, data e autor do WikiAves através da URL.
-- Salva o arquivo em um arquivo .txt com campos separados por vírgula e cada ocorrência em uma nova linha.
+- Salva os dados em um arquivo .txt com campos separados por vírgula e cada ocorrência em uma nova linha.
 - Repete o loop de rolagem e extração até que o número de ocorrências especificado seja atendido. 
 
 **Observação**: O script está configurado para usar o Edge WebDriver, mas pode ser facilmente modificado para outros navageadores, como Chrome ou Firefox!

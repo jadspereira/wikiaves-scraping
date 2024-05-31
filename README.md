@@ -1,4 +1,4 @@
-#  Web Scraper - WikiAves
+#  Web Scraper - WikiAves 🪶
 
 # Introdução
 
@@ -20,7 +20,7 @@ Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da p
 - `webdriver-manager` 
 - `beautifulsoup4`
 
-## Instalação
+## Instalação 🖥️
 
 1. **Clone este repositório:**
     ```sh

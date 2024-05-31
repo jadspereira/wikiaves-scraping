@@ -1,6 +1,6 @@
-#  Web Scraper - WikiAves
+#  Web Scraper - WikiAves 🪶
 
-# Introdução
+# Sobre o script
 
 Este é um script feito para coletar dados de observações do site wikiaves de maneira mais eficiente quando comparada a extração manual. 
 Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da página e a extração de conteúdo dos blocos. 
@@ -20,7 +20,7 @@ Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da p
 - `webdriver-manager` 
 - `beautifulsoup4`
 
-## Instalação
+## Instalação 🖥️
 
 1. **Clone este repositório:**
     ```sh

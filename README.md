@@ -24,7 +24,7 @@ Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da p
 
 1. **Clone este repositório:**
     ```sh
-    git clone https://github.com/yourusername/wikiaves-scraper.git
+    git clone https://github.com/jadspereira/wikiaves-scraper.git
     cd wikiaves-scraper
     ```
 
@@ -37,7 +37,7 @@ Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da p
 
 1. **Rode o script:**
     ```sh
-    python scraper.py
+    python main.py
     ```
 
 2. **Insira as informações solicitadas pelos inputs:**

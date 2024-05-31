@@ -49,7 +49,8 @@ Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da p
 Contribuições são bem-vindas! Por favor, **crie uma issue** se tiver melhorias ou correções!
 
 
-## Referência: [Raspagem de sítios web dinâmicos com Python](https://brightdata.com.br/blog/procedimentos/scrape-dynamic-websites-python)
+## Referência: 
+[Raspagem de sítios web dinâmicos com Python](https://brightdata.com.br/blog/procedimentos/scrape-dynamic-websites-python)
 
 
 

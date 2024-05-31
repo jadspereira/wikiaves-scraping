@@ -46,7 +46,8 @@ Ele utiliza Selenium e BeautifulSoup para automatizar o processo de rolagem da p
     - Número de ocorrências desejado
 
 ## Contribuições
-Contribuições são bem-vindas! Por favor, crie uma issue ou pull request se tiver melhorias ou correções!
+Contribuições são bem-vindas! Por favor, **crie uma issue** se tiver melhorias ou correções!
 
 
-## Referência: [Raspagem de sítios web dinâmicos com Python](https://brightdata.com.br/blog/procedimentos/scrape-dynamic-websites-python)
+## Referência: 
+[Raspagem de sítios web dinâmicos com Python](https://brightdata.com.br/blog/procedimentos/scrape-dynamic-websites-python)

@@ -5,9 +5,6 @@ __pycache__/
 *.pyd
 venv/
 
-# PyInstaller
-build/
-
 
 # Sistema
 .DS_Store
